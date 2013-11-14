@@ -1,0 +1,11 @@
+{
+  "name": "proxy",
+  "version": "0.0.1",
+  "description": "fwd events",
+  "homepage": "",
+  "author": "",
+  "dependencies": {
+    "http-proxy": "0.10.3",
+    "request": "2.27.0"
+  }
+}

@@ -1,0 +1,11 @@
+#!/bin/bash
+#webnull
+#go run ./go/proxy.go
+#coffee ./nodejs/request.coffee
+
+cd input
+ab -c 1 -n 10 -p event_medium.json -T 'application/json' http://localhost:3000/
+ab -c 16 -n 8000 -p event_medium.json -T 'application/json' http://localhost:3000/ > ../results/go.txt
+
+ab -c 1 -n 10 -p event_medium.json -T 'application/json' http://localhost:2000/
+ab -c 16 -n 8000 -p event_medium.json -T 'application/json' http://localhost:2000/ > ../results/nodejs.txt

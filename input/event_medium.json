@@ -1,0 +1,40 @@
+{
+  id: "0Rwd1A3SWUY",
+  uploaded: "2013-11-13T22:12:58.000Z",
+  updated: "2013-11-14T14:03:37.000Z",
+  uploader: "collegehumor",
+  category: "Comedy",
+  title: "Minneapolis - CollegeHumor Live Tour",
+  description: "BUY TICKETS HERE - http://www.ticketfly.com/event/392611 Arlington, VA: http://www.arlingtondrafthouse.com/drafthouse/event.aspx?eid=1814 Philadelphia, PA: http://www.ticketfly.com/purchase/event/388479?utm_medium=bks Burlington, VT: https://higherground.frontgatetickets.com/event/p0a4jlidhq1yi7g1 Boston, MA: http://www.ticketmaster.com/event/01004B42E989A651 Ann Arbor, MI: http://www.etix.com/ticket/online/performanceSearch.jsp?performance_id=1755136 Chicago, IL: http://upcomedyclub.com/show.cfm?id=276501&cart Madison, WI: http://www.etix.com/ticket/online/performanceSearch.jsp?performance_id=1757538",
+  thumbnail: {
+    sqDefault: "http://i1.ytimg.com/vi/0Rwd1A3SWUY/default.jpg",
+    hqDefault: "http://i1.ytimg.com/vi/0Rwd1A3SWUY/hqdefault.jpg"
+  },
+  player: {
+  default: "http://www.youtube.com/watch?v=0Rwd1A3SWUY&feature=youtube_gdata_player",
+           mobile: "http://m.youtube.com/details?v=0Rwd1A3SWUY"
+  },
+  content: {
+    1: "rtsp://r1---sn-cg07lued.c.youtube.com/CigLENy73wIaHwlGWdIN1B0c0RMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+    5: "http://www.youtube.com/v/0Rwd1A3SWUY?version=3&f=user_uploads&app=youtube_gdata",
+    6: "rtsp://r1---sn-cg07lued.c.youtube.com/CigLENy73wIaHwlGWdIN1B0c0RMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+  },
+  duration: 24,
+  aspectRatio: "widescreen",
+  rating: 4.3419914,
+  likeCount: "193",
+  ratingCount: 231,
+  viewCount: 10007,
+  favoriteCount: 0,
+  commentCount: 115,
+  accessControl: {
+    comment: "allowed",
+    commentVote: "allowed",
+    videoRespond: "moderated",
+    rate: "allowed",
+    embed: "allowed",
+    list: "allowed",
+    autoPlay: "allowed",
+    syndicate: "allowed"
+  }
+}
